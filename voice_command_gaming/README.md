@@ -10,5 +10,5 @@ Control your games using voice commands.
 ## Run the program
 
 ```bash
-python voice_command_gaming.ipynb
+voice_command_gaming.ipynb
 ```
