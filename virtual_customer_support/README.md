@@ -11,7 +11,7 @@ This program enables automated voice-based customer support.
 ## Run the program
 
 ```bash
-python virtual_customer_support.ipynb
+virtual_customer_support.ipynb
 ```
 
 Make sure `customer_support_data.csv` is in the same directory.
