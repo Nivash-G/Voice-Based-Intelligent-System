@@ -10,5 +10,5 @@ This assistant helps control home appliances using voice commands.
 ## Run the program
 
 ```bash
-python smart_home_assistant.ipynb
+smart_home_assistant.ipynb
 ```
