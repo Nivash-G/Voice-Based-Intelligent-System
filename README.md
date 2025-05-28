@@ -37,7 +37,7 @@ This project contains three Python programs developed as part of the Naan Mudhal
 
 2. Run each script as needed:
    ```bash
-   python virtual_customer_support.py
-   python smart_home_assistant.py
-   python voice_command_gaming.py
+   python virtual_customer_support.ipynb
+   python smart_home_assistant.ipynb
+   python voice_command_gaming.ipynb
    ```
